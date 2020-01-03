@@ -2,10 +2,6 @@
 * 本书发布于：[http://springboot.zimug.com](http://springboot.zimug.com),会持续创作更新。
 * 作者博客: [字母哥博客：www.zimug.com](http://www.zimug.com)
 
-###  **这本电子书的价值？**
-* 市面上售价70、80元一本的讲解spring boot的图书，因为出版章节及页数的限制，不可能讲解的全面细致，更多的是偏概念。而且技术是在不断发展的，很多内容都过时。
-* 本书会随着作者的知识更新，不断更新。**笔者自认为，这本电子书是目前市面上spring boot知识梳理最系统、全面、合理的一本电子书**。
-
 ## 二、内容概览
 * 第一章 spring boot 2.x基础及概念入门
     * 1.1.spring boot 产生的背景及其优势
